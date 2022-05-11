@@ -23,7 +23,7 @@ Here will be questions that I am generally asked, serious or not, such as "Do yo
 This page will have a completed works section and an "in the shop" section.
 
 ### Completed Works
-Will be updated frequently, but start with nothing byt the portfolio site itself, considering this is my first website and the portfolio is for web development.
+Will be updated frequently, but start with nothing but the portfolio site itself, considering this is my first website and the portfolio is for web development.
 
 ### In the shop
 Will also be updated frequently and will likely just have links to where the project is being kept, such as GitHub, codepen.io, repl.it, etc.
