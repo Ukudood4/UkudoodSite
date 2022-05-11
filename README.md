@@ -3,7 +3,7 @@ This is my first attempt at a portfolio website. The goal is to use react to sho
 The pages will include a Home, About Me, Questionaire, Feedback, FAQ, and Projects. While the site is a serious representation of my work, it is also meant to be a representation of me and what I appreciate. For that reason, there will be some unimportant parts that simply bring me joy, including the FAQ and Questionaire pages.
 
 ## Home
-This will be a simple page for navigating to the main content of the site. It should have an elegant look and features that demonstrate my HTML, CSS, and JavaScript.
+This will be a simple page for navigating to the main content of the site. It should have an elegant look and features that demonstrate my HTML, CSS, and JavaScript skills.
 
 ## About Me
 This will be an informative page that shows my true nature, motivation, and career goals.
